@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Github\Uni-work\Year 2\Term 1\Games Engine Construction\Milestone1\Milestone1\HAPI_Start\main.cpp(52,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Github\Uni-work\Year 2\Term 1\Games Engine Construction\Milestone1\Milestone1\HAPI_Start\main.cpp(53,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Github\Uni-work\Year 2\Term 1\Games Engine Construction\Milestone1\Milestone1\HAPI_Start\main.cpp(82,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Github\Uni-work\Year 2\Term 1\Games Engine Construction\Milestone1\Milestone1\HAPI_Start\main.cpp(83,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Github\Uni-work\Year 2\Term 1\Games Engine Construction\Milestone1\Milestone1\HAPI_Start\main.cpp(97,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Github\Uni-work\Year 2\Term 1\Games Engine Construction\Milestone1\Milestone1\HAPI_Start\main.cpp(98,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  HAPI_Start.vcxproj -> D:\Github\Uni-work\Year 2\Term 1\Games Engine Construction\Milestone1\Milestone1\x64\Debug\HAPI_Start.exe

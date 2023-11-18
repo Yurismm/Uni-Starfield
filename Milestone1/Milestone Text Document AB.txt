@@ -1,0 +1,41 @@
+Azizah Blackwood	
+
+
+Milestone 1 <version 1> and <18/10/23>
+--------------------------------
+
+New Functionality
+-----------------
+I removed the initial way to clear the screen and replaced it with memset to clear it to 0 a little quicker.
+Other than that I creates a star struct, added an if statement to prevent the stars from going outside of the window, and a continue within an if else to remove the checking of edistance
+and resetting z to make it a bit more smooth looking and more efficent.
+
+also implimented the equations that were on the slides to turn translate the 3d location of the stars into 2d
+
+
+< A list of additional functionality in this release aimed at the user e.g. "Control of the player craft via the XBox controller".>
+
+Code Additions
+--------------
+
+I added two keys that increment and deincrement the eye distance, s and w.
+
+< A list of major additions e.g. classes, functions > 
+
+There arent any functions though I did add a star structure and array
+
+
+Tests
+-----
+During the practical we messed around with the star amount to see if the program would crash and in my own time I messed around with the values of Edistance and Z to make the movement look
+a little better. We set the star amount from 300 to 30000, and we decreased the amount of z in the loop (deincrement) to 2 instead of 5 so it would make it more slow.
+
+
+< A list of tests you have done to prove the milestone requirements have been met e.g. a stress test may be done where you try extreme values for things. e.g. render 1,000 sprites all at the same time.>
+
+Notes
+-----
+Add screen clear to one colour back again.
+
+
+<short notes on things left to do, issues and observations about possible future changes etc.>
